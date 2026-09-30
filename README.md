@@ -47,7 +47,3 @@ CRUD API for managing tasks, built with clean, documented endpoints.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
-### GitHub Stats
-
-![Haneen's GitHub stats](https://github-readme-stats.vercel.app/api?username=haneen09&show_icons=true&theme=default)
